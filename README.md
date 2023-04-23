@@ -11,6 +11,9 @@ Datos
 
 Los datos del proyecto vienen de la competicion: https://www.kaggle.com/competitions/DontGetKicked/data
 
+##Videos:
 
+segunda entraga:
+https://youtu.be/G1pKKKqYmNY
   
 
