@@ -19,6 +19,8 @@ Los datos del proyecto vienen de la competición [Dont Get Kicked](https://www.k
 
 Después de haber subido la base de datos a un repositorio público en GitHub y adjuntar el link de la base de datos al Notebook.
 ## Videos
-[Video segunda entrega](https://youtu.be/G1pKKKqYmNY)
+[Video segunda entrega](https://youtu.be/G1pKKKqYmNY) 
+
+
 [Video entrega final](https://www.youtube.com/watch?v=vp5JswbwXR8)
 
