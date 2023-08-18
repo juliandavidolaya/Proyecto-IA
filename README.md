@@ -2,9 +2,10 @@
 
 Integrantes del grupo:
 
-	Julián David Olaya Restrepo, cc 1037592175, Bioingeniería.
-	Isabella Pareja Gil, cc 1000207825, Ingenieria Industrial.
-	Esteban Caro Peláez, cc 1007223542, Ingeniería Industrial.
+	Julián David Olaya Restrepo, cc %%%%%%%%, Bioingeniería.
+	Isabella Pareja Gil, cc $$$$$$$$$$, Ingenieria Industrial.
+	Esteban Caro Peláez, cc $$$$$$$$$, Ingeniería Industrial.
+ (Datos personales ocultos por seguridad, luego de la certificación en la U de A)
 	
 	
 ## Datos
